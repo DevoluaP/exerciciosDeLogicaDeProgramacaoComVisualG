@@ -9,7 +9,9 @@ Var
    numero: inteiro
 
 Inicio
+   escreval("Digite um numero:")
    leia(numero)
+
    se numero >= 1 e numero <= 9 entao
       escreval("Dentro da faixa")
    senao
